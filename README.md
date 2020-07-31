@@ -1,5 +1,6 @@
 # ORION Registration Application (ORA)
-
+![Screenshot](Images/orion.JPG)
+![Screenshot](Images/expedited_structure.JPG)
 Includes both server and client side applications of the ORA needed to successfuly register and credential a device.
 
 ## Getting Started
@@ -20,6 +21,8 @@ Network Emulator: Mininet 2.2.2 <br />
 Packet Analyzer: Wireshark 3.0.5 <br />
 Programming Languages: Python 2.7.17 & Java 1.8.0 <br />
 
+![Screenshot](Images/ora_experiment.JPG)
+
 ### Prerequisites
 The project was built in a Linux virtual environment: <br />
 
@@ -28,6 +31,8 @@ The project was built in a Linux virtual environment: <br />
 3) Utilize onos-create-app tool to build a new ONOS application, replace the template .java file with AppComponent.java <br />
 4) Install OpenSSL <br />
 5) Install any code-dependent libraries, as required, needed to execute the code (as noted in source code) <br />
+
+![Screenshot](Images/ora_mainmenu.JPG)
 
 ### Installing and Running Tests
 Download all source files to working directory.
